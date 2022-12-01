@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Professional-Portfolio/static/css/main.69dbd641.css",
+    "main.js": "/Professional-Portfolio/static/js/main.3160dc2d.js",
+    "static/media/cover-image.jpg": "/Professional-Portfolio/static/media/cover-image.0ad0ec7b2e02c075b0fb.jpg",
+    "static/media/zoo-animal-game.png": "/Professional-Portfolio/static/media/zoo-animal-game.422d4c23549db5a3db5a.png",
+    "static/media/wish-list.png": "/Professional-Portfolio/static/media/wish-list.d9d39c8da1e88e76a6cf.png",
+    "static/media/felisha.jpg": "/Professional-Portfolio/static/media/felisha.b32642d6dc2514e743c8.jpg",
+    "static/media/shiny-hunter.png": "/Professional-Portfolio/static/media/shiny-hunter.fdc052c13a9d962b38f7.png",
+    "static/media/note-taker.png": "/Professional-Portfolio/static/media/note-taker.d16931166d56781547de.png",
+    "index.html": "/Professional-Portfolio/index.html",
+    "main.69dbd641.css.map": "/Professional-Portfolio/static/css/main.69dbd641.css.map",
+    "main.3160dc2d.js.map": "/Professional-Portfolio/static/js/main.3160dc2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69dbd641.css",
+    "static/js/main.3160dc2d.js"
+  ]
+}

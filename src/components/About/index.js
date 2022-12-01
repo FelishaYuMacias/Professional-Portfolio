@@ -1,11 +1,13 @@
 import React from 'react';
+import felisha from '../../assets/about/felisha.jpg'
+import '../../assets/about/about.css'
 
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-          <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <img className= "profilePicture"src={felisha} alt="Felisha" />
         </div>
         <h3> Banker turned Coder</h3>
         <p>I started working at Banner Bank in November of 2011 as a teller. In January of 2014 I was promoted to Customer Service Supervisor. November of 2019 I was promoted to Client Services Manager. May of 2021 I was promoted to Client Services Manager II.</p>

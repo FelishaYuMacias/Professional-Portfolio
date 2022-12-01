@@ -6,15 +6,13 @@ function Footer() {
   const icons = [
     {
       name: "fab fa-github",
-      link: "https://github.com/FelishaYuMacias"
+      link: "https://github.com/FelishaYuMacias",
+      title: "GitHub"
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/in/felisha-yu-macias/"
-    },
-    {
-      name: "fab fa-stack-overflow",
-      link: "https://stackoverflow.com/"
+      link: "https://www.linkedin.com/in/felisha-yu-macias/",
+      title: "LinkedIn"
     }
   ]
 
@@ -22,7 +20,7 @@ function Footer() {
     <footer className="flex-row px-1">
       {icons.map(icon =>
       (
-        <a href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}></i></a>
+        <a href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}>{icon.title}</i></a>
       )
         )}
     </footer>

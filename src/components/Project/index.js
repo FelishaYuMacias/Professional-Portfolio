@@ -8,14 +8,14 @@ function Project({ project }) {
   return (
     <div className="project" key={name}>
       <img
-        src={require(`../../assets/projects/${name}.jpg`).default}
+        src={require(`../../assets/projects/${name}.png`)}
         alt={removeHyphensAndCapitalize(name)}
         className="project-bg"
       />
       <div className="project-text">
         <h3>
-          <a href={link}>{removeHyphensAndCapitalize(name)}</a>{' '}
-          <a href={repo}>
+          <a href={link} target="_blank">{removeHyphensAndCapitalize(name)}</a>{' '}
+          <a href={repo} target="_blank">
             <i className="fab fa-github"></i>
           </a>
         </h3>

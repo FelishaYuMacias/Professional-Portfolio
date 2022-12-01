@@ -13,7 +13,8 @@ function Resume() {
           <li>CSS</li>
           <li>JavaScript</li>
           <li>jQuery</li>
-          <li>responsive design</li>
+          <li>Handlebars</li>
+          <li>Progressive Web Applications</li>
           <li>React</li>
           <li>Bootstrap</li>
         </ul>
@@ -21,7 +22,10 @@ function Resume() {
         <ul className="skills">
           <li>APIs</li>
           <li>Node</li>
+          <li>Object Oriented Programming</li>
           <li>Express</li>
+          <li>Object Relational Mapping</li>
+          <li>Model View Controller</li>
           <li>MySQL, Sequelize</li>
           <li>MongoDB, Mongoose</li>
           <li>REST</li>

@@ -1,5 +1,18 @@
-p {
+.aboutHeader{
+    text-align: start;
+}
+h2 {
+    padding: 20px;
+}
+.info {
     text-align: left;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.about {
+    padding: 10px;
+    display: flex;
+    margin: 0, 20px;
 }
 .aboutPicture {
     max-width: 20%;

@@ -1,17 +1,50 @@
 import React from 'react';
+import './assets/style.css';
+
 
 export default function Project() {
+
   return (
     <div>
       <h1>Project Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      <div className='project-cards d-flex justify-content-around'>
+      <div className="project">
+        <h3>Zoo Animal Game</h3>
+        <a className="project-link"  href='https://felishayumacias.github.io/Zoo-Animal-Game/' target="_blank"><img src={require(`./assets/zoo-animal-game.png`)} alt='zoo animal game' className="project-img" /></a>
+        <div>
+        <a className="project-link" href="https://github.com/FelishaYuMacias/Zoo-Animal-Game" target="_blank">GitHub Link</a>
+        </div>
+      </div>
+
+      <div className="project">
+        <h3>Wish List</h3>
+        <a className="project-link"  href='https://team7-wishlist-app.herokuapp.com/' target="_blank"><img src={require(`./assets/wish-list.png`)} alt='wish list' className="project-img" /></a> 
+        <div>
+        <a className="project-link" href="https://github.com/tkmarsten/wishlist" target="_blank">GitHub Link</a>
+        </div>
+      </div>
+
+      <div className="project">
+        <h3>Express Note Taker</h3>
+        <a className="project-link"  href='https://felishas-note-taker-express-js.herokuapp.com/notes' target="_blank"><img src={require(`./assets/note-taker.png`)} alt='Note Taker' className="project-img" /></a>
+        <div>
+        <a className="project-link" href="https://github.com/FelishaYuMacias/Express.js-Note-Taker" target="_blank">GitHub Link</a>
+        </div>
+      </div>
+
+      <div className="project">
+        <h3>Shiny Hunter</h3>
+        <div>
+        <a className="project-link"  href='https://github.com/FelishaYuMacias/Shiny-Hunter' target="_blank"><img src={require(`./assets/shiny-hunter.jpg`)} alt='Shiny Hunter' className="project-img" /></a>
+        <div>
+        <a className="project-link" href="https://github.com/FelishaYuMacias/Shiny-Hunter" target="_blank">GitHub Link</a>
+        </div>
+        </div>
+      </div>
+
+      </div>
+      
     </div>
+    
   );
 }

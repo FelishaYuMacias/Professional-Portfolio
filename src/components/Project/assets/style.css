@@ -1,0 +1,13 @@
+.project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin:20px;
+}
+.project-link {
+    padding: 10px;
+    color: var(--light)
+}
+.project-img {
+    min-width: 200px;
+    max-width: 500px;
+}

@@ -1,13 +1,25 @@
 {
-  "files": {
-    "main.css": "/Professional-Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Professional-Portfolio/static/js/main.46f45a1e.js",
-    "index.html": "/Professional-Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Professional-Portfolio/static/css/main.073c9b0a.css.map",
-    "main.46f45a1e.js.map": "/Professional-Portfolio/static/js/main.46f45a1e.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.46f45a1e.js"
-  ]
+  "main.css": "/Professional-Portfolio/static/css/main.baeb4f18.chunk.css",
+  "main.js": "/Professional-Portfolio/static/js/main.b9aafbf4.chunk.js",
+  "main.js.map": "/Professional-Portfolio/static/js/main.b9aafbf4.chunk.js.map",
+  "static/css/1.57f925e4.chunk.css": "/Professional-Portfolio/static/css/1.57f925e4.chunk.css",
+  "static/js/1.b90b79f2.chunk.js": "/Professional-Portfolio/static/js/1.b90b79f2.chunk.js",
+  "static/js/1.b90b79f2.chunk.js.map": "/Professional-Portfolio/static/js/1.b90b79f2.chunk.js.map",
+  "runtime~main.js": "/Professional-Portfolio/static/js/runtime~main.1631df14.js",
+  "runtime~main.js.map": "/Professional-Portfolio/static/js/runtime~main.1631df14.js.map",
+  "static/media/felisha.jpg": "/Professional-Portfolio/static/media/felisha.bdbfda44.jpg",
+  "static/media/family.jpg": "/Professional-Portfolio/static/media/family.b063eec3.jpg",
+  "static/media/resume.png": "/Professional-Portfolio/static/media/resume.fb8f94d7.png",
+  "static/media/cover-image.jpg": "/Professional-Portfolio/static/media/cover-image.d13d1149.jpg",
+  "static/media/zoo-animal-game.png": "/Professional-Portfolio/static/media/zoo-animal-game.cdacab35.png",
+  "static/media/wish-list.png": "/Professional-Portfolio/static/media/wish-list.ded35d20.png",
+  "static/media/note-taker.png": "/Professional-Portfolio/static/media/note-taker.8accd57e.png",
+  "static/media/shiny-hunter.jpg": "/Professional-Portfolio/static/media/shiny-hunter.ebc3d808.jpg",
+  "static/media/tech.jpg": "/Professional-Portfolio/static/media/tech.ab814cd9.jpg",
+  "static/media/timed-quiz.jpg": "/Professional-Portfolio/static/media/timed-quiz.7e36a21d.jpg",
+  "static/css/main.baeb4f18.chunk.css.map": "/Professional-Portfolio/static/css/main.baeb4f18.chunk.css.map",
+  "static/css/1.57f925e4.chunk.css.map": "/Professional-Portfolio/static/css/1.57f925e4.chunk.css.map",
+  "index.html": "/Professional-Portfolio/index.html",
+  "precache-manifest.738f94a2da4e234d8726d5faa0fb860b.js": "/Professional-Portfolio/precache-manifest.738f94a2da4e234d8726d5faa0fb860b.js",
+  "service-worker.js": "/Professional-Portfolio/service-worker.js"
 }

@@ -1,0 +1,9 @@
+form {
+    max-width: 33%;
+    padding-top: 100px;
+}
+
+.btn {
+color: var(--light);
+border: solid var(--light);
+}

@@ -6,7 +6,6 @@ import './assets/style.css'
 export default function Home() {
   return (
     <div>
-      <h1>Felisha Yu-Macias</h1>
       <div className="profile-img my-5">
         <img className= "profilePicture"src={felisha} alt="Felisha" />
         </div>

@@ -14,6 +14,11 @@ function Footer() {
       name: "fab fa-linkedin",
       link: "https://www.linkedin.com/in/felisha-yu-macias/",
       title: "LinkedIn"
+    },
+    {
+      name: "fas fa-code",
+      link: "https://www.codewars.com/users/FelishaYuMacias",
+      title: "CodeWars"
     }
   ]
 
@@ -22,7 +27,7 @@ function Footer() {
       <hr></hr>
       {icons.map(icon =>
       (
-        <a className="footer-link" href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}>{icon.title}</i></a>
+        <a className="footer-link" href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}> {icon.title}</i></a>
       )
         )}
     </footer>

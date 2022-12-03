@@ -4,8 +4,9 @@
   --light: #fafafa;
   --dark: #ab5693;
   --darker: #4f192f;
-  --font-family: 'Twinkle Star', cursive;
-}
+  --font-family: 'Bellota', cursive;
+  /* --font-family: 'Mochi Pop One', cursive; */
+} 
 
 * {
   box-sizing: border-box;

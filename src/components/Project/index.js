@@ -42,6 +42,23 @@ export default function Project() {
         </div>
       </div>
 
+      <div className="project">
+        <h3>MVC Tech Blog</h3>
+        <a className="project-link"  href='https://felisha-mvc-tech-blog.herokuapp.com/' target="_blank"><img src={require(`./assets/tech.jpg`)} alt='MVC Tech Blog' className="project-img" /></a>
+        <div>
+        <a className="project-link" href="https://github.com/FelishaYuMacias/Model-View-Controller-MVC-Tech-Blog" target="_blank">GitHub Link</a>
+        </div>
+      </div>
+
+      <div className="project">
+        <h3>Timed Quiz</h3>
+        <a className="project-link"  href='https://felishayumacias.github.io/Web-APIs-Timed-Quiz/' target="_blank"><img src={require(`./assets/timed-quiz.jpg`)} alt='Quiz' className="project-img" /></a>
+        <div>
+        <a className="project-link" href="https://github.com/FelishaYuMacias/Web-APIs-Timed-Quiz" target="_blank">GitHub Link</a>
+        <div></div>
+        </div>
+      </div>
+
       </div>
       
     </div>

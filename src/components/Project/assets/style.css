@@ -2,11 +2,16 @@
     display: flex;
     flex-wrap: wrap;
     margin: 20px;
+    padding-bottom: 200px;
+}
+.project {
+    padding: 50px 50px;
 }
 
 .project-link {
     padding: 10px;
-    color: var(--light)
+    color: var(--light);
+    font-size: x-large;
 }
 
 .project-img {

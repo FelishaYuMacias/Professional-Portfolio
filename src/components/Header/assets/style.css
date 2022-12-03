@@ -1,0 +1,14 @@
+.header-h1 {
+    position: relative;
+    z-index: 2;  
+}
+.cover-img {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height:200px;
+    width: 100%;
+    filter: sepia(1) opacity(60%);
+    opacity: 0.5;
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import './assets/style.css'
 
 function Footer() {
 
@@ -17,11 +18,11 @@ function Footer() {
   ]
 
   return (
-    <footer className="flex-row px-1">
+    <footer className="footer">
       <hr></hr>
       {icons.map(icon =>
       (
-        <a href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}>{icon.title}</i></a>
+        <a className="footer-link" href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}>{icon.title}</i></a>
       )
         )}
     </footer>

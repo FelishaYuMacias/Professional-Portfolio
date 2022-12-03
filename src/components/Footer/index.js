@@ -23,13 +23,15 @@ function Footer() {
   ]
 
   return (
-    <footer className="footer">
+    <footer>
       <hr></hr>
+      <div className="footer d-flex justify-content-center align-items-center">
       {icons.map(icon =>
       (
         <a className="footer-link" href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}> {icon.title}</i></a>
       )
         )}
+      </div>
     </footer>
   );
 }

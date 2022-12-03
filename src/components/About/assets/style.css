@@ -8,6 +8,7 @@ h2 {
     text-align: left;
     font-size: 1.5rem;
     line-height: 2rem;
+    min-width: 100px;
 }
 .about {
     padding: 10px;

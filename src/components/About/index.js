@@ -7,7 +7,7 @@ export default function About() {
   return (
     <div >
       <div className='about d-flex justify-content-around'>
-      <h1 className='aboutHeader'>About Me</h1>
+      <h2 className='aboutHeader'>About Me</h2>
       <h2 className='aboutHeader d-flex align-items-center'> Banker turned Coder</h2>
       </div>
       <div className=" about d-flex align-items-center">

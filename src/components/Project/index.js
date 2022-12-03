@@ -6,7 +6,7 @@ export default function Project() {
 
   return (
     <div>
-      <h1>Project Page</h1>
+      <h2>My Projects</h2>
       <div className='project-cards d-flex justify-content-around'>
       <div className="project">
         <h3>Zoo Animal Game</h3>

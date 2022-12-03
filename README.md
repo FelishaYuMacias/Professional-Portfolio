@@ -49,22 +49,40 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 # Links and Resources
 
 React
+
 https://create-react-app.dev/docs/deployment/
+
 https://reactjs.org/docs/handling-events.html
+
 https://create-react-app.dev/docs/adding-images-fonts-and-files/
 
+
+
 Google Fonts
+
 https://fonts.google.com/specimen/Bellota
+
 https://fonts.google.com/specimen/Mochiy+Pop+One
 
+
+
 Font Awesome
+
 https://fontawesome.com/icons
 
+
+
 Bootstrap
+
 https://getbootstrap.com/docs/5.2/getting-started/introduction/
 
+
+
 Cover Image
+
 https://www.pexels.com/photo/books-on-wooden-shelves-inside-library-2908984/
+
+
 
 
  ## License

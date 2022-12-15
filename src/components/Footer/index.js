@@ -14,12 +14,8 @@ function Footer() {
       name: "fab fa-linkedin",
       link: "https://www.linkedin.com/in/felisha-yu-macias/",
       title: "LinkedIn"
-    },
-    {
-      name: "fas fa-code",
-      link: "https://www.codewars.com/users/FelishaYuMacias",
-      title: "CodeWars"
     }
+  
   ]
 
   return (

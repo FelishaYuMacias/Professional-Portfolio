@@ -11,7 +11,7 @@ export default function Resume() {
 
         <div className='resume-link'>
           <h3>View my Resume </h3>
-          <a href="https://docs.google.com/document/d/e/2PACX-1vQ5EqdbCSgbwZuIJxolrB7gsEV-nPsiqvnl4fnSl1g4N2rj54WJ2vkTwAqRD0cGZf7j4HwGXkTxh-Dx/pub" target={"_blank"}><img className="resumePicture" src={resume} alt="resume icon" /><p>Click Here</p> </a>
+          <a href="https://docs.google.com/document/d/1i495RNlm4SD02wk2xgALK58Wm5zy9URTd2hEOY_q5mE/edit?usp=sharing" target={"_blank"}><img className="resumePicture" src={resume} alt="resume icon" /><p>Click Here</p> </a>
         </div>
 
         <div className='front'>

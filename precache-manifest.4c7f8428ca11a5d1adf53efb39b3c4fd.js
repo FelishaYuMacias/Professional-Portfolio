@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2dba72924862fbd85649",
+    "revision": "6b20cc1f517473197311",
     "url": "/Professional-Portfolio/static/css/main.6e5391bc.chunk.css"
   },
   {
-    "revision": "2dba72924862fbd85649",
-    "url": "/Professional-Portfolio/static/js/main.2dba7292.chunk.js"
+    "revision": "6b20cc1f517473197311",
+    "url": "/Professional-Portfolio/static/js/main.6b20cc1f.chunk.js"
   },
   {
     "revision": "91ee6905f0049e9906d4",
@@ -56,11 +56,11 @@ self.__precacheManifest = [
     "url": "/Professional-Portfolio/static/media/tech.ab814cd9.jpg"
   },
   {
-    "revision": "7e36a21d0831995a5c11cbaa7b484c5b",
-    "url": "/Professional-Portfolio/static/media/timed-quiz.7e36a21d.jpg"
+    "revision": "4f2fdf7a4ecd4fd92ff2f00bd264ef51",
+    "url": "/Professional-Portfolio/static/media/timed-quiz.4f2fdf7a.jpg"
   },
   {
-    "revision": "8f37521bec68b4a8171efd4140dc948e",
+    "revision": "370887b542d5cfaba184f5e57ceee1e1",
     "url": "/Professional-Portfolio/index.html"
   }
 ];
